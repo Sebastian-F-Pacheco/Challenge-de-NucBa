@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background:#e8e8e8;
+    font-family: 'Roboto Slab', serif;
+}
+
+header{
+    background: #59E5D8;
+    width: 120%;
+    clear: both;
+    content: '';
+    display: table;
+}
+
+.munu{
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+img{
+    width: 90px;
+    float: left;
+    padding: 2px;
+}
+
+nav{
+    float:right;
+}
+
+nav ul li{
+    list-style: none;
+    margin-inline: 100px;
+    padding: 10px 0;
+    float: left;
+    position: relative;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #F7DF34;
+    font-weight: bold ;
+    
+}
